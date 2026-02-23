@@ -1,0 +1,20 @@
+/.vscode/
+.idea/
+.DS_Store
+
+/target
+**/*.rmeta
+**/*.rlib
+*.so
+*.dylib
+*.dll
+*.exe
+*.wasm
+/.fingerprint
+
+node_modules/
+dist/
+*.log
+.env
+
+# Keep Cargo.lock for applications/binaries (do not ignore)
